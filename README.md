@@ -31,7 +31,7 @@ All code in this project is authored by Skea. Please do not use this code for an
 
 /*
 
-   MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
+   MADE BY SKEA!! FEEL FREE TO USE ANY PART OF CODE
 
 ███████╗██╗  ██╗███████╗ █████╗ 
 ██╔════╝██║ ██╔╝██╔════╝██╔══██╗

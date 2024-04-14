@@ -26,3 +26,24 @@
 ## Pull Request: Submit a pull request with your changes.
 
 # 📚 Copyright 
+
+All code in this project is authored by Skea. Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
+
+/*
+
+MADE BY SKEA!! FEEL FREE TO USE ANY PART OF CODE
+
+██████╗░████████╗██╗░░██╗
+██╔══██╗╚══██╔══╝╚██╗██╔╝
+██████╔╝░░░██║░░░░╚███╔╝░
+██╔══██╗░░░██║░░░░██╔██╗░
+██║░░██║░░░██║░░░██╔╝╚██╗
+╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
+
+FOR EMOJIS EITHER YOU CAN EDIT OR JOIN OUR DISCORD SERVER SO WE ADD BOT TO OUR SERVER SO YOU GET ANIMATED EMOJIS.
+
+DISCORD SERVER : https://discord.gg/ZCfbtCf5rJ
+
+FOR HELP CONTACT ME ON DISCORD
+
+Contact [ DISCORD SERVER : https://discord.gg/ZCfbtCf5rJ ]
